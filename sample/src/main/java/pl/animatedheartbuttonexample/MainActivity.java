@@ -5,6 +5,8 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
+import pl.animatedheartbutton.AnimatedHeartButton;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
